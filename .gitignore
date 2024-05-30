@@ -123,3 +123,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# weights (files too large have to download and add seperate)
+.pth
+.state
